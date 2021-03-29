@@ -1,4 +1,0 @@
-Hello git init
-hello branch
-初始化内容，不多！
-第一次修改，沙沙水啊？
